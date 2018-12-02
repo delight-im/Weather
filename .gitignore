@@ -1,0 +1,9 @@
+# IntelliJ
+.idea/
+
+# Composer
+vendor/
+composer.phar
+
+# Configuration file
+config.php
